@@ -1,0 +1,26 @@
+{
+  "name": "parkify",
+  "version": "1.0.0",
+  "description": "Avoid parking tickets",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronHeise/parkifyme.git"
+  },
+  "author": "a.m.heise@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaronHeise/parkifyme/issues"
+  },
+  "homepage": "https://github.com/AaronHeise/parkifyme#readme",
+  "dependencies": {
+    "angular": "^1.5.7",
+    "body-parser": "^1.15.2",
+    "bootstrap": "^3.3.6",
+    "express": "^4.14.0",
+    "nodemailer": "^2.4.2"
+  }
+}
